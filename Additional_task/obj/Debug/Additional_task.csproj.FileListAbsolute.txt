@@ -1,0 +1,7 @@
+S:\work\FoAP\Additional_task\bin\Debug\Additional_task.exe.config
+S:\work\FoAP\Additional_task\bin\Debug\Additional_task.exe
+S:\work\FoAP\Additional_task\bin\Debug\Additional_task.pdb
+S:\work\FoAP\Additional_task\obj\Debug\Additional_task.csproj.AssemblyReference.cache
+S:\work\FoAP\Additional_task\obj\Debug\Additional_task.csproj.CoreCompileInputs.cache
+S:\work\FoAP\Additional_task\obj\Debug\Additional_task.exe
+S:\work\FoAP\Additional_task\obj\Debug\Additional_task.pdb
